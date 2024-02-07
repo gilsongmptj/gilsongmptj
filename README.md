@@ -2,7 +2,7 @@
 
 - 🌱 Aprimorando conhecimento em SQL e NoSQl e estudando Java/Spring Boot
 - 📚 Bacharel em Sistemas de Informação
-- 
+- 📚 Pós -Graduando em Arquitetura e Gestão de TI e Dev Ops (Cursando)
 ##
 <div align="center">
   <a href="https://github.com/gilsongmptj">
